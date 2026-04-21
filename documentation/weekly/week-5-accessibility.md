@@ -5,7 +5,7 @@
 
 > _artifact:_ `/documentation/accessibility.md` (the audit itself) +
 > retrofit commits across `/projects/orion/`, `/projects/moss/`,
-> `/projects/big-C/`, `/portfolio/`.
+> `/projects/big-C/`, root `/`.
 
 ## intent
 accessibility as _default craft_, not as a patch. the week's task was
@@ -15,7 +15,7 @@ remains. pick one finished project (orion) and one in-progress project
 no critical issues".
 
 ## mechanic
-- **manual keyboard walkthrough** for every page in `/portfolio/` and
+- **manual keyboard walkthrough** for every page in the shell and
   the full six-page orion tree. noted focus-ring visibility and
   tab-order at each stop.
 - **axe DevTools** (chrome extension) run on the deployed shell; results

@@ -14,7 +14,7 @@
 - **live portfolio website:**
   `https://bobbyj0nes.github.io/cci_web_dev_port/`
 - **public repository:**
-  'https://github.com/BobbyJ0nes/cci_web_dev_port'
+  `https://github.com/BobbyJ0nes/cci_web_dev_port`
 
 ## week → artifact map
 
@@ -23,7 +23,7 @@
 | 1    | html + css · anatomy                   | `projects/basaira/` (v1→v4)       |
 | 2    | semantic html · hyperlinks             | `projects/orion/`                 |
 | 3    | positions + transforms                 | `projects/big-C/`                 |
-| 4    | css layouts + responsive               | `portfolio/` (this site)          |
+| 4    | css layouts + responsive               | `root/` (this site)               |
 | 5    | accessibility                          | retrofit pass + full audit doc    |
 | 6    | javascript · time + DOM                | `projects/seventeen/`             |
 | 7    | events + interactivity                 | `projects/a_toi/`                 |

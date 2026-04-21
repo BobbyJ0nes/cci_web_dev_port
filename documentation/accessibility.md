@@ -10,7 +10,7 @@
 
 all features reference **WCAG 2.1 AA** unless otherwise stated.
 
-### across the portfolio shell (`/portfolio/`)
+### across the portfolio shell (the root index)
 - **1.1.1 non-text content** — every `<img>` has meaningful `alt`; decorative
   gradient thumbnails in `.card__thumb` use `aria-hidden="true"`.
 - **1.3.1 info + relationships** — semantic landmarks: `<header role="banner">`,

@@ -2,7 +2,7 @@
 
 > _syllabus topic:_ Flexbox, CSS Grid, combining both, media queries.
 
-> _artifact:_ `/portfolio/` (the site you are inside).
+> _artifact:_ the root directory (the site you are inside).
 
 ## intent
 the unit asks for one portfolio website. build the shell last, once the

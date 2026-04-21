@@ -49,7 +49,7 @@
 
 ## ai use (overall statement)
 
-pi (anthropic's coding agent) was used throughout this portfolio as a
+pi (agent harness w/ various models) was used throughout this portfolio as a
 discussion partner, reference-book shortcut, and refactor assistant.
 every weekly writeup contains a specific ai disclaimer describing how
 it was used for that piece. all creative writing — orion's prose, the

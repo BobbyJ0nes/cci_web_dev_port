@@ -2,8 +2,8 @@
 ---
 ## student
 
-- name: <Bilaal Auleear>
-- student number: <21023695>
+- name: Bilaal Auleear
+- student number: 21023695
 - course: BSc (Hons) Creative Computing
 - year / level: 2 / 5
 - unit: **IU000112 — Coding Three: Web Development Studio**
@@ -12,14 +12,9 @@
 ## submission
 
 - **live portfolio website:**
-  `https://<your-github>.github.io/coding-3/portfolio/`
+  `https://bobbyj0nes.github.io/cci_web_dev_port/`
 - **public repository:**
-  `https://github.com/<your-github>/coding-3`
-- **documentation root:**
-  `https://github.com/<your-github>/coding-3/tree/main/documentation`
-- **accessibility report:**
-  `https://github.com/<your-github>/coding-3/blob/main/documentation/accessibility.md`
-
+  'https://github.com/BobbyJ0nes/cci_web_dev_port'
 
 ## week → artifact map
 
